@@ -33,7 +33,7 @@
     "html-entities": "^1.2.1",
     "kitsu": "^5.2.2",
     "moment": "^2.22.2",
-    "moment-duration-format": "^2.2.2",
+    "moment-duration-format": "^2.3.2",
     "ms": "^2.1.1",
     "node-fetch": "^2.2.0",
     "overwatch-js": "^1.8.0",
