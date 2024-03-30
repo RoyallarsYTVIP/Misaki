@@ -31,7 +31,7 @@
     "fs-nextra": "^0.3.7",
     "hot-shots": "^5.9.1",
     "html-entities": "^1.2.1",
-    "kitsu": "^5.2.2",
+    "kitsu": "^10.1.5",
     "moment": "^2.22.2",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.1",
